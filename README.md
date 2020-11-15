@@ -10,3 +10,6 @@ Tugas2 - HTML Dasar
 Tugas 3 - Latihan Layout
 ![tugas3](https://user-images.githubusercontent.com/73782704/97809161-e3aad900-1c9d-11eb-9989-1393d96489f2.PNG)
 
+Tugas 4 - Tugas Percabangan
+![image](https://user-images.githubusercontent.com/73782704/99188777-5339c180-2790-11eb-9014-31f2de35687e.png)
+
