@@ -11,5 +11,5 @@ Tugas 3 - Latihan Layout
 ![tugas3](https://user-images.githubusercontent.com/73782704/97809161-e3aad900-1c9d-11eb-9989-1393d96489f2.PNG)
 
 Tugas 4 - Tugas Percabangan
-![gambar4](https://user-images.githubusercontent.com/73782704/99189058-db6c9680-2791-11eb-943f-945fcb548ef1.PNG
+![gambar4](https://user-images.githubusercontent.com/73782704/99189058-db6c9680-2791-11eb-943f-945fcb548ef1.PNG)
 
