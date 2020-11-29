@@ -13,3 +13,15 @@ Tugas 3 - Latihan Layout
 Tugas 4 - Tugas Percabangan
 ![gambar4](https://user-images.githubusercontent.com/73782704/99189058-db6c9680-2791-11eb-943f-945fcb548ef1.PNG)
 
+Tugas 5 - Latihan Fungsi PHP
+![fungsi 1](https://user-images.githubusercontent.com/73782704/100537597-65216700-325c-11eb-8dc4-aa6644ab36d6.PNG)
+
+![fungsi 2](https://user-images.githubusercontent.com/73782704/100537604-6c487500-325c-11eb-87ce-22f6e65adb8b.PNG)
+
+![fungsi 3](https://user-images.githubusercontent.com/73782704/100537615-736f8300-325c-11eb-8b46-6022899976fd.PNG)
+
+![fungsi 4](https://user-images.githubusercontent.com/73782704/100537619-7cf8eb00-325c-11eb-9865-4c4b85252ffd.PNG)
+
+![fungsi 5](https://user-images.githubusercontent.com/73782704/100537625-86825300-325c-11eb-987e-e0ec00ead350.PNG)
+
+![fungsi 6](https://user-images.githubusercontent.com/73782704/100537628-8d10ca80-325c-11eb-821e-6eae397a88ca.PNG)
