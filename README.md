@@ -17,7 +17,7 @@ Tugas 4 - Tugas Percabangan
 
 Tugas 5 - Latihan Fungsi PHP
 
-![fungsi_1](https://user-images.githubusercontent.com/73782704/100537797-14127280-325e-11eb-9f1e-bdadc2eaa92f.PNG
+![fungsi_1](https://user-images.githubusercontent.com/73782704/100537797-14127280-325e-11eb-9f1e-bdadc2eaa92f.PNG)
 
 ![fungsi 2](https://user-images.githubusercontent.com/73782704/100537604-6c487500-325c-11eb-87ce-22f6e65adb8b.PNG)
 
